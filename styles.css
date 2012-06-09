@@ -1,0 +1,25 @@
+body
+{
+	background-color: #222222;
+	font-family: 'Lobster', serif;
+	font-size: 72px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display: block}
+
+canvas {
+	/*border: 2px solid white;*/
+	/*-webkit-border-radius: 10px;*/
+	}
+	
+#pageTitle {
+	padding-bottom: 0px;
+	height: 0px;
+}
+
+#tewClock {
+	padding: 5px;
+	padding-bottom: 0px;
+}
